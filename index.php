@@ -7,9 +7,25 @@
   <meta name="keywords" content="mths, icd2o" />
   <meta name="author" content="Trisha Ray" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
-  <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.pink-purple.min.css" />
+  <link
+    rel="stylesheet"
+    href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css" />
   <link rel="stylesheet" href="./css/style.css" />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="./apple-touch-icon.png" />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="./favicon-32x32.png" />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="./favicon-16x16.png" />
+  <link rel="manifest" href="./site.webmanifest" />
   <title>product of even and odd numbers using loops, in PHP</title>
 </head>
 
